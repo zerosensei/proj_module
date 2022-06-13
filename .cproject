@@ -68,14 +68,16 @@
 								</option>
 								<option id="ilg.gnumcueclipse.managedbuild.cross.riscv.option.c.compiler.std.2020844713" name="Language standard" superClass="ilg.gnumcueclipse.managedbuild.cross.riscv.option.c.compiler.std" useByScannerDiscovery="true" value="ilg.gnumcueclipse.managedbuild.cross.riscv.option.c.compiler.std.gnu99" valueType="enumerated"/>
 								<option IS_BUILTIN_EMPTY="false" IS_VALUE_EMPTY="false" id="ilg.gnumcueclipse.managedbuild.cross.riscv.option.c.compiler.defs.177116515" name="Defined symbols (-D)" superClass="ilg.gnumcueclipse.managedbuild.cross.riscv.option.c.compiler.defs" useByScannerDiscovery="true" valueType="definedSymbols">
-									<listOptionValue builtIn="false" value="DEBUG=1"/>
-									<listOptionValue builtIn="false" value="CLK_OSC32K=0"/>
-									<listOptionValue builtIn="false" value="CONFIG_RISCV"/>
-									<listOptionValue builtIn="false" value="CONFIG_SYS_CLOCK_HW_CYCLES_PER_SEC=60000000"/>
-									<listOptionValue builtIn="false" value="CONFIG_SYS_CLOCK_MAX_TIMEOUT_DAYS=356"/>
-									<listOptionValue builtIn="false" value="CONFIG_SYS_CLOCK_TICKS_PER_SEC=1000"/>
-									<listOptionValue builtIn="false" value="CONFIG_SYS_CLOCK_EXISTS"/>
 									<listOptionValue builtIn="false" value="LOG"/>
+									<listOptionValue builtIn="false" value="DEBUG=1"/>
+									<listOptionValue builtIn="false" value="CONFIG_RISCV"/>
+									<listOptionValue builtIn="false" value="CLK_OSC32K=0"/>
+									<listOptionValue builtIn="false" value="CONFIG_TICKLESS_KERNEL"/>
+									<listOptionValue builtIn="false" value="CONFIG_SYS_CLOCK_EXISTS"/>
+									<listOptionValue builtIn="false" value="CONFIG_SYS_CLOCK_TICKS_PER_SEC=1000"/>
+									<listOptionValue builtIn="false" value="CONFIG_TIMER_HAS_64BIT_CYCLE_COUNTER"/>
+									<listOptionValue builtIn="false" value="CONFIG_SYS_CLOCK_MAX_TIMEOUT_DAYS=356"/>
+									<listOptionValue builtIn="false" value="CONFIG_SYS_CLOCK_HW_CYCLES_PER_SEC=60000000"/>
 								</option>
 								<option IS_BUILTIN_EMPTY="false" IS_VALUE_EMPTY="true" id="ilg.gnumcueclipse.managedbuild.cross.riscv.option.c.compiler.include.files.288896968" name="Include files (-include)" superClass="ilg.gnumcueclipse.managedbuild.cross.riscv.option.c.compiler.include.files" useByScannerDiscovery="true" valueType="includeFiles"/>
 								<option id="ilg.gnumcueclipse.managedbuild.cross.riscv.option.c.compiler.preprocessonly.1594987158" name="Preprocess only (-E)" superClass="ilg.gnumcueclipse.managedbuild.cross.riscv.option.c.compiler.preprocessonly" useByScannerDiscovery="false" value="false" valueType="boolean"/>
