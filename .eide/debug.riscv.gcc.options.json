@@ -29,7 +29,7 @@
     "linker": {
         "output-format": "elf",
         "LD_FLAGS": "-Wl,--cref -Wl,--gc-sections --specs=nosys.specs --specs=nano.specs -nostartfiles",
-        "LIB_FLAGS": "-lISP583 -lCH58xBLE -lprintfloat -lprintf",
+        "LIB_FLAGS": "-lISP583 -lCH58xBLE -lprintfloat",
         "remove-unused-input-sections": true
     }
 }
