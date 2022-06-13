@@ -1,0 +1,6 @@
+[submodule "StdPeriphDriver"]
+	path = StdPeriphDriver
+	url = https://github.com/zerosensei/StdPeriphDriver.git
+[submodule "LIB"]
+	path = LIB
+	url = https://github.com/zerosensei/LIB.git
